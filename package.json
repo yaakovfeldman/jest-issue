@@ -1,0 +1,19 @@
+{
+  "name": "jest-test",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "firebase-admin": "^10.0.0",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "jest": "^27.3.1",
+    "morgan": "~1.9.1"
+  }
+}
