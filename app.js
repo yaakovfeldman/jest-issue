@@ -1,5 +1,5 @@
 const express = require('express')
-const { initializeApp, cert } = require('firebase-admin/app');
+const { initializeApp } = require('firebase/app');
 //const admin = require('firebase-admin');
 
 const app = express()
